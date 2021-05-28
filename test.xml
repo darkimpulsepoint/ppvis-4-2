@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<clients>
+    <client>
+        <surname>Антонов</surname>
+        <name>Антон</name>
+        <patronymic>Антонович</patronymic>
+        <homePhone>1111111</homePhone>
+        <mobilePhone>2222222</mobilePhone>
+        <accountNumber>65231</accountNumber>
+        <adress>Белоруссия, Минск</adress>
+    </client>
+    <client>
+        <surname>Иванов</surname>
+        <name>Иван</name>
+        <patronymic>Иванович</patronymic>
+        <homePhone>2158614</homePhone>
+        <mobilePhone>8976541</mobilePhone>
+        <accountNumber>78965</accountNumber>
+        <adress>Россия, Москва</adress>
+    </client>
+    <client>
+        <surname>Иванова</surname>
+        <name>Наталья</name>
+        <patronymic>Александровна</patronymic>
+        <homePhone>2158614</homePhone>
+        <mobilePhone>8976542</mobilePhone>
+        <accountNumber>78965</accountNumber>
+        <adress>Россия, Москва</adress>
+    </client>
+    <client>
+        <surname>Гречихин</surname>
+        <name>Игорь</name>
+        <patronymic>Владиславович</patronymic>
+        <homePhone>7985214</homePhone>
+        <mobilePhone>6678143</mobilePhone>
+        <accountNumber>85641</accountNumber>
+        <adress>Беларусь</adress>
+    </client>
+    <client>
+        <surname>Гречихина</surname>
+        <name>Елизавета</name>
+        <patronymic>Петровна</patronymic>
+        <homePhone>7985123</homePhone>
+        <mobilePhone>6678478</mobilePhone>
+        <accountNumber>75614</accountNumber>
+        <adress>Беларусь, Орша</adress>
+    </client>
+    <client>
+        <surname>Мадуро</surname>
+        <name>Николас</name>
+        <patronymic>Морос</patronymic>
+        <homePhone>8888888</homePhone>
+        <mobilePhone>9999999</mobilePhone>
+        <accountNumber>78945</accountNumber>
+        <adress>Венесуэла, Каракас</adress>
+    </client>
+    <client>
+        <surname>Николаев</surname>
+        <name>Николай</name>
+        <patronymic>Николаевич</patronymic>
+        <homePhone>6578455</homePhone>
+        <mobilePhone>1265789</mobilePhone>
+        <accountNumber>66655</accountNumber>
+        <adress>Беларусь, Минск</adress>
+    </client>
+    <client>
+        <surname>Николаева</surname>
+        <name>Елена</name>
+        <patronymic>Николаевна</patronymic>
+        <homePhone>6578455</homePhone>
+        <mobilePhone>1265123</mobilePhone>
+        <accountNumber>66656</accountNumber>
+        <adress>Беларусь, Минск</adress>
+    </client>
+</clients>
